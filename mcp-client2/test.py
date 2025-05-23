@@ -1,7 +1,7 @@
 
 from openai import OpenAI
 
-client = OpenAI(api_key="sk-pFWkwL4eWQVNqOu0Y788EdTypiXOxH8nYs0IPpHxnX1sri8N", base_url="https://api.hunyuan.cloud.tencent.com/v1")
+client = OpenAI(api_key="********************", base_url="https://api.hunyuan.cloud.tencent.com/v1")
 
 role_user="如何学习Python"
 
